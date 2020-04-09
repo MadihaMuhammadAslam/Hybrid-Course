@@ -14,30 +14,30 @@
 <table border="1" cellspacing="0" cellpadding="10" width="70%">
 <tr>
 <td bgcolor="orange"> 1 H</td>
-<td colspan="16" class="stype1"></td>
-<td bgcolor=""> 2 He</td>
+<td colspan="16"></td>
+<td bgcolor="#E5D2EE"> 2 He</td>
 </tr>
 <tr>
 <td bgcolor="FUCHSIA"> 3 Li</td>
 <td bgcolor="AQUA"> 4 Be</td>
 <td colspan="10" class="stype1"></td>
-<td bgcolor="rgb(220, 118, 51 )"> 5 B</td>
+<td bgcolor="#F5CA6E"> 5 B</td>
 <td bgcolor= "Orange"> 6 C</td>
 <td bgcolor= "Orange"> 7 N</td>
 <td bgcolor= "Orange"> 8 O</td>
 <td bgcolor= "#F5CBA7"> 9 F</td>
-<td bgcolor= ""> 10 Ne</td>
+<td bgcolor="#E5D2EE"> 10 Ne</td>
 </tr>
 <tr>
 <td bgcolor="FUCHSIA"> 11 Na</td>
 <td bgcolor="AQUA"> 12 Mg</td>
 <td colspan="10" class="stype1"></td>
-<td> 13 Al</td>
-<td> 14 Si</td>
-<td> 15 P</td>
-<td> 16 S</td>
+<td bgcolor="LIMe"> 13 Al</td>
+<td bgcolor="#F5CA6E"> 14 Si</td>
+<td bgcolor="orange"> 15 P</td>
+<td bgcolor="orange"> 16 S</td>
 <td bgcolor="#F5CBA7"> 17 Cl</td>
-<td> 18 Ar</td>
+<td bgcolor="#E5D2EE"> 18 Ar</td>
 </tr>
 <tr>
 <td bgcolor="FUCHSIA"> 19 K </td>
@@ -53,70 +53,70 @@
 <td bgcolor="YELLOW"> 29 Cu </td>
 <td bgcolor="YELLOW"> 30 Zn </td>
 <td bgcolor="LIME"> 31 Ga </td>
-<td bgcolor="LIME"> 32 Ge </td>
-<td> 33 As </td>
-<td> 34 Se </td>
+<td bgcolor="#F5CA6E"> 32 Ge </td>
+<td bgcolor="#F5CA6E"> 33 As </td>
+<td bgcolor="orange"> 34 Se </td>
 <td bgcolor="#F5CBA7"> 35 Br </td>
-<td> 36 Kr </td>
+<td bgcolor="#E5D2EE"> 36 Kr </td>
 </tr>
 <tr>
 <td bgcolor="FUCHSIA"> 37 Rb </td>
 <td bgcolor="AQUA"> 38 Sr </td>
-<td> 39 Y  </td>
-<td> 40 Zr </td>
-<td> 41 Nb </td>
-<td> 42 Mo </td>
-<td> 43 Tc </td>
-<td> 44 Ru </td>
-<td> 45 Rh </td>
-<td> 46 Pd </td>
-<td> 47 Ag </td>
-<td> 48 Cd </td>
-<td> 49 In </td>
-<td> 50 Sn </td>
-<td> 51 Sb </td>
-<td> 52 Te </td>
+<td bgcolor="YELLOW"> 39 Y  </td>
+<td bgcolor="YELLOW"> 40 Zr </td>
+<td bgcolor="YELLOW"> 41 Nb </td>
+<td bgcolor="YELLOW"> 42 Mo </td>
+<td bgcolor="YELLOW"> 43 Tc </td>
+<td bgcolor="YELLOW"> 44 Ru </td>
+<td bgcolor="YELLOW"> 45 Rh </td>
+<td bgcolor="YELLOW"> 46 Pd </td>
+<td bgcolor="YELLOW"> 47 Ag </td>
+<td bgcolor="YELLOW"> 48 Cd </td>
+<td bgcolor="LIME"> 49 In </td>
+<td bgcolor="LIME"> 50 Sn </td>
+<td bgcolor="#F5CA6E"> 51 Sb </td>
+<td bgcolor="#F5CA6E"> 52 Te </td>
 <td bgcolor="#F5CBA7"> 53 I  </td>
-<td> 54 Xe </td>
+<td bgcolor="#E5D2EE"> 54 Xe </td>
 </tr>
 <tr>
 <td bgcolor="FUCHSIA"> 55 Cs </td>
 <td bgcolor="AQUA"> 56 Ba </td>
 <td> 57-71 </td>
-<td bgcolor=""> 72 Hf </td> 
-<td> 73 Ta </td>
-<td> 74 W </td>
-<td> 75 Re </td>
-<td> 76 Os </td>
-<td> 77 Ir </td>
-<td> 78 Pt </td>
-<td> 79 Au </td>
-<td> 80 Hg </td>
-<td> 81 TI </td>
-<td> 82 Pb </td>
-<td> 83 Bi </td>
-<td> 84 Po </td>
+<td bgcolor="YELLOW"> 72 Hf </td> 
+<td bgcolor="YELLOW"> 73 Ta </td>
+<td bgcolor="YELLOW"> 74 W </td>
+<td bgcolor="YELLOW"> 75 Re </td>
+<td bgcolor="YELLOW"> 76 Os </td>
+<td bgcolor="YELLOW"> 77 Ir </td>
+<td bgcolor="YELLOW"> 78 Pt </td>
+<td bgcolor="YELLOW"> 79 Au </td>
+<td bgcolor="YELLOW"> 80 Hg </td>
+<td bgcolor="lime"> 81 TI </td>
+<td bgcolor="LIME"> 82 Pb </td>
+<td bgcolor="LIME"> 83 Bi </td>
+<td bgcolor="#F5CA6E"> 84 Po </td>
 <td bgcolor="#F5CBA7"> 85 At </td>
-<td> 86 Rn </td>
+<td bgcolor="#E5D2EE"> 86 Rn </td>
 </tr>
 <tr>
 <td bgcolor="FUCHSIA"> 87 Fr </td>
 <td bgcolor="AQUA"> 88 Ra </td>
 <td> 89-103 </td>
-<td> 104 Rf </td>
-<td> 105 Db </td>
-<td> 106 Sg </td>
-<td> 107 Bh </td>
-<td> 108 Hs </td>
-<td> 109 Mt </td>
-<td> 110  Ds </td>
-<td> 111 Rg </td>
-<td> 112 cn </td>
+<td bgcolor="YeLLOW"> 104 Rf </td>
+<td bgcolor="YeLLOW"> 105 Db </td>
+<td bgcolor="YeLLOW"> 106 Sg </td>
+<td bgcolor="YeLLOW"> 107 Bh </td>
+<td bgcolor="YeLLOW"> 108 Hs </td>
+<td bgcolor="YeLLOW"> 109 Mt </td>
+<td bgcolor="YELLOw"> 110  Ds </td>
+<td bgcolor="YELLOW"> 111 Rg </td>
+<td bgcolor="YELLOW"> 112 cn </td>
 <td> 113 Nh </td>
 <td> 114 FI </td>
 <td> 115 Mc </td>
 <td> 116 Lv </td>
-<td bgcolor="#F5CBA7"> 117 Ts </td>
+<td> 117 Ts </td>
 <td> 118 Og </td>
 </tr>
 <tr>
@@ -124,39 +124,39 @@
 </tr>
 <tr>
 <td colspan="2" class="stype2"></td>
-<td> 57 La </td>
-<td> 58 Ce </td>
-<td> 59 Pr </td>
-<td> 60 Nd </td>
-<td> 61 Pm </td>
-<td> 62 Sm </td>
-<td> 63 Eu </td>
-<td> 64 Gd </td>
-<td> 65 Tb </td>
-<td> 66 Dy </td>
-<td> 67 Ho </td>
-<td> 68 Er </td>
-<td> 69 Tm </td>
-<td> 70 Yb </td>
-<td> 71 Lu </td>
+<td bgcolor="#F5EEF8" > 57 La </td>
+<td bgcolor="#F5EEF8" > 58 Ce </td>
+<td bgcolor="#F5EEF8" > 59 Pr </td>
+<td bgcolor="#F5EEF8" > 60 Nd </td>
+<td bgcolor="#F5EEF8" > 61 Pm </td>
+<td bgcolor="#F5EEF8" > 62 Sm </td>
+<td bgcolor="#F5EEF8" > 63 Eu </td>
+<td bgcolor="#F5EEF8"> 64 Gd </td>
+<td bgcolor="#F5EEF8"> 65 Tb </td>
+<td bgcolor="#F5EEF8"> 66 Dy </td>
+<td bgcolor="#F5EEF8"> 67 Ho </td>
+<td bgcolor="#F5EEF8"> 68 Er </td>
+<td bgcolor="#F5EEF8"> 69 Tm </td>
+<td bgcolor="#F5EEF8"> 70 Yb </td>
+<td bgcolor="#F5EEF8"> 71 Lu </td>
 </tr>
 <tr>
 <td colspan="2" class="stype2"></td>
-<td> 89 Ac</td>
-<td> 90Th </td>
-<td> 91 Pa </td>
-<td> 92 U </td>
-<td> 93 Np </td>
-<td> 94 Pu </td>
-<td> 95 Am </td>
-<td> 96 Cm </td>
-<td> 97 Bk </td>
-<td> 98 Cf </td>
-<td> 99 Es </td>
-<td> 100 Fm </td>
-<td> 101 Md </td>
-<td> 102 No </td>
-<td> 103 Lr </td>
+<td bgcolor="#F5EEF8 "> 89 Ac</td>
+<td bgcolor="#F5EEF8 "> 90Th </td>
+<td bgcolor="#F5EEF8 "> 91 Pa </td>
+<td bgcolor="#F5EEF8 "> 92 U </td>
+<td bgcolor="#F5EEF8 "> 93 Np </td>
+<td bgcolor="#F5EEF8 "> 94 Pu </td>
+<td bgcolor="#F5EEF8 "> 95 Am </td>
+<td bgcolor="#F5EEF8 "> 96 Cm </td>
+<td bgcolor="#F5EEF8 "> 97 Bk </td>
+<td bgcolor="#F5EEF8 "> 98 Cf </td>
+<td bgcolor="#F5EEF8 "> 99 Es </td>
+<td bgcolor="#F5EEF8 "> 100 Fm </td>
+<td bgcolor="#F5EEF8 "> 101 Md </td>
+<td bgcolor="#F5EEF8 "> 102 No </td>
+<td bgcolor="#F5EEF8 "> 103 Lr </td>
 </tr>
 
 
