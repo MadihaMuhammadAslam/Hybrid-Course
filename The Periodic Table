@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>The Periodic Table</title>
+
+</head>
+<body>
+<center>
+<table>
+<tr>
+        <thead bgcolour="yellow" fontsize="24">   The Periodic Table </thead>
+</tr>
+
+    
+<table bgcolour= "red" border="1" cellspacing="0" cellpadding="10" width="70%">
+<tr>
+<td> 5 H</td>
+<td colspan="16" class="stype1"></td>
+<td> 2 He</td>
+</tr>
+<tr>
+<td> 3 Li</td>
+<td> 4 Be</td>
+<td colspan="10" class="stype1"></td>
+<td> 5 B</td>
+<td> 6 C</td>
+<td> 7 N</td>
+<td> 8 O</td>
+<td> 9 F</td>
+<td> 10 Ne</td>
+</tr>
+<tr>
+<td> 11 Na</td>
+<td> 12 Mg</td>
+<td colspan="10" class="stype1"></td>
+<td> 13 Al</td>
+<td> 14 Si</td>
+<td> 15 P</td>
+<td> 16 S</td>
+<td> 17 Cl</td>
+<td> 18 Ar</td>
+</tr>
+<tr>
+<td> 19 K </td>
+<td> 20 Ca </td>
+<td> 21 Sc </td>
+<td> 22 Ti </td>
+<td> 23 V </td>
+<td> 24 Cr </td>
+<td> 25 Mn </td>
+<td> 26 Fe </td>
+<td> 27 Co </td>
+<td> 28 Ni </td>
+<td> 29 Cu </td>
+<td> 30 Zn </td>
+<td> 31 Ga </td>
+<td> 32 Ge </td>
+<td> 33 As </td>
+<td> 34 Se </td>
+<td> 35 Br </td>
+<td> 36 Kr </td>
+</tr>
+<tr>
+<td> 37 Rb </td>
+<td> 38 Sr </td>
+<td> 39 Y  </td>
+<td> 40 Zr </td>
+<td> 41 Nb </td>
+<td> 42 Mo </td>
+<td> 43 Tc </td>
+<td> 44 Ru </td>
+<td> 45 Rh </td>
+<td> 46 Pd </td>
+<td> 47 Ag </td>
+<td> 48 Cd </td>
+<td> 49 In </td>
+<td> 50 Sn </td>
+<td> 51 Sb </td>
+<td> 52 Te </td>
+<td> 53 I  </td>
+<td> 54 Xe </td>
+</tr>
+</html>
